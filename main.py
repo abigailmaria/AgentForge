@@ -1482,3 +1482,7 @@ class _MKjj:
 # TODO: revisit logic (vgq75)
 
 # TODO: revisit logic (yqelp)
+
+
+class _M7v3:
+    version = 405
