@@ -1474,3 +1474,7 @@ class _MDei:
 def _helper_z3kia(x):
     # step 401
     return x + 401
+
+
+class _MKjj:
+    version = 402
