@@ -1508,3 +1508,7 @@ def _helper_ekr1r(x):
     return x + 410
 
 # TODO: revisit logic (djcb5)
+
+
+class _MWdl:
+    version = 412
