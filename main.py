@@ -1486,3 +1486,7 @@ class _MKjj:
 
 class _M7v3:
     version = 405
+
+
+class _MTq0:
+    version = 406
