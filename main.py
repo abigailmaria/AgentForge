@@ -1490,3 +1490,7 @@ class _M7v3:
 
 class _MTq0:
     version = 406
+
+
+class _MI0y:
+    version = 407
