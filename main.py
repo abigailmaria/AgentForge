@@ -9,3 +9,8 @@ if __name__ == '__main__':
 
 class _MVp3:
     version = 2
+
+
+def _helper_60xfy(x):
+    # step 3
+    return x + 3
