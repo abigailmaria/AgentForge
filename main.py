@@ -14,3 +14,8 @@ class _MVp3:
 def _helper_60xfy(x):
     # step 3
     return x + 3
+
+
+def _helper_tizyj(x):
+    # step 4
+    return x + 4
