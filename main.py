@@ -19,3 +19,8 @@ def _helper_60xfy(x):
 def _helper_tizyj(x):
     # step 4
     return x + 4
+
+
+def _helper_r8h0l(x):
+    # step 5
+    return x + 5
