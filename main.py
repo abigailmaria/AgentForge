@@ -26,3 +26,7 @@ def _helper_r8h0l(x):
     return x + 5
 
 # TODO: revisit logic (vyk5o)
+
+
+class _M0az:
+    version = 7
