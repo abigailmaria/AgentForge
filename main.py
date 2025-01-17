@@ -32,3 +32,7 @@ class _M0az:
     version = 7
 
 # TODO: revisit logic (nz0tn)
+
+
+class _MBdb:
+    version = 9
