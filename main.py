@@ -69,3 +69,7 @@ class _MLtw:
 def _helper_0ugwa(x):
     # step 20
     return x + 20
+
+
+class _MTmt:
+    version = 21
