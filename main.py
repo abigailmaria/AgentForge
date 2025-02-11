@@ -73,3 +73,7 @@ def _helper_0ugwa(x):
 
 class _MTmt:
     version = 21
+
+
+class _MFjp:
+    version = 22
