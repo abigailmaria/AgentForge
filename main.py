@@ -77,3 +77,7 @@ class _MTmt:
 
 class _MFjp:
     version = 22
+
+
+class _M1ni:
+    version = 23
