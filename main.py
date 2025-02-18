@@ -87,3 +87,8 @@ class _M1ni:
 # TODO: revisit logic (34xak)
 
 # TODO: revisit logic (sshll)
+
+
+def _helper_pl8ud(x):
+    # step 27
+    return x + 27
