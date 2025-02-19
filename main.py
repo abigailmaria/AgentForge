@@ -92,3 +92,8 @@ class _M1ni:
 def _helper_pl8ud(x):
     # step 27
     return x + 27
+
+
+def _helper_qnz1n(x):
+    # step 28
+    return x + 28
