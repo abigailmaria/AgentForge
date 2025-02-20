@@ -97,3 +97,7 @@ def _helper_pl8ud(x):
 def _helper_qnz1n(x):
     # step 28
     return x + 28
+
+
+class _MCpu:
+    version = 29
