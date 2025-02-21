@@ -101,3 +101,8 @@ def _helper_qnz1n(x):
 
 class _MCpu:
     version = 29
+
+
+def _helper_99n0i(x):
+    # step 30
+    return x + 30
