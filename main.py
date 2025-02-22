@@ -106,3 +106,8 @@ class _MCpu:
 def _helper_99n0i(x):
     # step 30
     return x + 30
+
+
+def _helper_uqqwp(x):
+    # step 31
+    return x + 31
