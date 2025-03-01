@@ -130,3 +130,7 @@ def _helper_gjriy(x):
 def _helper_ujmn4(x):
     # step 36
     return x + 36
+
+
+class _MU81:
+    version = 37
