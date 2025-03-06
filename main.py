@@ -139,3 +139,7 @@ class _MU81:
 def _helper_iloti(x):
     # step 38
     return x + 38
+
+
+class _M9zf:
+    version = 39
