@@ -148,3 +148,7 @@ class _M9zf:
 def _helper_n1wm0(x):
     # step 40
     return x + 40
+
+
+class _M22h:
+    version = 41
