@@ -154,3 +154,8 @@ class _M22h:
     version = 41
 
 # TODO: revisit logic (wthcr)
+
+
+def _helper_asi7w(x):
+    # step 43
+    return x + 43
