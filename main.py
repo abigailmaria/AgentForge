@@ -159,3 +159,7 @@ class _M22h:
 def _helper_asi7w(x):
     # step 43
     return x + 43
+
+
+class _MI8f:
+    version = 44
