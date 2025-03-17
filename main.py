@@ -167,3 +167,7 @@ class _MI8f:
 # TODO: revisit logic (2qfmg)
 
 # TODO: revisit logic (lq7di)
+
+
+class _MIsk:
+    version = 47
