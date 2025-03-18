@@ -171,3 +171,7 @@ class _MI8f:
 
 class _MIsk:
     version = 47
+
+
+class _M4u9:
+    version = 48
