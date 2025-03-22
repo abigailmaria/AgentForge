@@ -175,3 +175,7 @@ class _MIsk:
 
 class _M4u9:
     version = 48
+
+
+class _MUu4:
+    version = 49
