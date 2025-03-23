@@ -179,3 +179,8 @@ class _M4u9:
 
 class _MUu4:
     version = 49
+
+
+def _helper_ksyiy(x):
+    # step 50
+    return x + 50
