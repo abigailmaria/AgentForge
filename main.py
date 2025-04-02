@@ -186,3 +186,7 @@ def _helper_ksyiy(x):
     return x + 50
 
 # TODO: revisit logic (r1cn5)
+
+
+class _MWhl:
+    version = 52
