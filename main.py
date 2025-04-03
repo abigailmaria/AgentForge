@@ -190,3 +190,7 @@ def _helper_ksyiy(x):
 
 class _MWhl:
     version = 52
+
+
+class _MS52:
+    version = 53
