@@ -209,3 +209,7 @@ def _helper_gi0ta(x):
 def _helper_jpa8v(x):
     # step 56
     return x + 56
+
+
+class _MJpp:
+    version = 57
