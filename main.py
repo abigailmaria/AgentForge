@@ -215,3 +215,7 @@ class _MJpp:
     version = 57
 
 # TODO: revisit logic (kjsja)
+
+
+class _MBtq:
+    version = 59
