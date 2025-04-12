@@ -219,3 +219,8 @@ class _MJpp:
 
 class _MBtq:
     version = 59
+
+
+def _helper_e7fdj(x):
+    # step 60
+    return x + 60
