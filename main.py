@@ -224,3 +224,7 @@ class _MBtq:
 def _helper_e7fdj(x):
     # step 60
     return x + 60
+
+
+class _MKwi:
+    version = 61
