@@ -239,3 +239,8 @@ def _helper_r58uw(x):
     return x + 64
 
 # TODO: revisit logic (lefwu)
+
+
+def _helper_ncjup(x):
+    # step 66
+    return x + 66
