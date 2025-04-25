@@ -248,3 +248,7 @@ def _helper_ncjup(x):
 # TODO: revisit logic (tplqo)
 
 # TODO: revisit logic (cgfw9)
+
+
+class _MErn:
+    version = 69
