@@ -252,3 +252,8 @@ def _helper_ncjup(x):
 
 class _MErn:
     version = 69
+
+
+def _helper_0xsnx(x):
+    # step 70
+    return x + 70
