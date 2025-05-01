@@ -257,3 +257,7 @@ class _MErn:
 def _helper_0xsnx(x):
     # step 70
     return x + 70
+
+
+class _MDnw:
+    version = 71
