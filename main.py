@@ -261,3 +261,7 @@ def _helper_0xsnx(x):
 
 class _MDnw:
     version = 71
+
+
+class _MCj5:
+    version = 72
