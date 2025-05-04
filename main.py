@@ -265,3 +265,7 @@ class _MDnw:
 
 class _MCj5:
     version = 72
+
+
+class _MKqn:
+    version = 73
