@@ -269,3 +269,7 @@ class _MCj5:
 
 class _MKqn:
     version = 73
+
+
+class _MOk4:
+    version = 74
