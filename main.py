@@ -273,3 +273,8 @@ class _MKqn:
 
 class _MOk4:
     version = 74
+
+
+def _helper_uf58w(x):
+    # step 75
+    return x + 75
