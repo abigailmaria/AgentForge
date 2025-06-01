@@ -313,3 +313,7 @@ def _helper_ha10o(x):
 def _helper_jfphy(x):
     # step 85
     return x + 85
+
+
+class _MSed:
+    version = 86
