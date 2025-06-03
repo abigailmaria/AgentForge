@@ -317,3 +317,8 @@ def _helper_jfphy(x):
 
 class _MSed:
     version = 86
+
+
+def _helper_hm4og(x):
+    # step 87
+    return x + 87
