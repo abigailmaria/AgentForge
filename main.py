@@ -331,3 +331,7 @@ def _helper_5dgwd(x):
     return x + 89
 
 # TODO: revisit logic (rp5s9)
+
+
+class _MLki:
+    version = 91
