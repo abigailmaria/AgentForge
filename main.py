@@ -342,3 +342,7 @@ class _MLki:
 def _helper_b3tsl(x):
     # step 93
     return x + 93
+
+
+class _MXuv:
+    version = 94
