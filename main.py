@@ -351,3 +351,8 @@ class _MXuv:
 def _helper_s9mfd(x):
     # step 95
     return x + 95
+
+
+def _helper_me9co(x):
+    # step 96
+    return x + 96
