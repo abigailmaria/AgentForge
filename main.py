@@ -358,3 +358,7 @@ def _helper_me9co(x):
     return x + 96
 
 # TODO: revisit logic (vkthr)
+
+
+class _MPrm:
+    version = 98
