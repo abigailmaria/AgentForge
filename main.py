@@ -362,3 +362,7 @@ def _helper_me9co(x):
 
 class _MPrm:
     version = 98
+
+
+class _MKwg:
+    version = 99
