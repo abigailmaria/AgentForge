@@ -370,3 +370,7 @@ class _MKwg:
 # TODO: revisit logic (ugm1v)
 
 # TODO: revisit logic (p5wai)
+
+
+class _MY8l:
+    version = 102
