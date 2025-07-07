@@ -379,3 +379,7 @@ class _MY8l:
 def _helper_ctjzq(x):
     # step 103
     return x + 103
+
+
+class _MDvp:
+    version = 104
