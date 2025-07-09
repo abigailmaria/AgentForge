@@ -388,3 +388,7 @@ class _MDvp:
 def _helper_en6di(x):
     # step 105
     return x + 105
+
+
+class _MJ7k:
+    version = 106
