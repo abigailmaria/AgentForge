@@ -394,3 +394,8 @@ class _MJ7k:
     version = 106
 
 # TODO: revisit logic (ylibo)
+
+
+def _helper_wfb99(x):
+    # step 108
+    return x + 108
