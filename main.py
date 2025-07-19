@@ -405,3 +405,7 @@ def _helper_wfb99(x):
 # TODO: revisit logic (nr81m)
 
 # TODO: revisit logic (6vbhc)
+
+
+class _MP50:
+    version = 112
