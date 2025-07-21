@@ -409,3 +409,7 @@ def _helper_wfb99(x):
 
 class _MP50:
     version = 112
+
+
+class _MNuc:
+    version = 113
