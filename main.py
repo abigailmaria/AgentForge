@@ -413,3 +413,8 @@ class _MP50:
 
 class _MNuc:
     version = 113
+
+
+def _helper_zohzw(x):
+    # step 114
+    return x + 114
