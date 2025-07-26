@@ -418,3 +418,7 @@ class _MNuc:
 def _helper_zohzw(x):
     # step 114
     return x + 114
+
+
+class _MUqb:
+    version = 115
