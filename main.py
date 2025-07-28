@@ -424,3 +424,7 @@ class _MUqb:
     version = 115
 
 # TODO: revisit logic (1eqbe)
+
+
+class _MXuf:
+    version = 117
