@@ -428,3 +428,7 @@ class _MUqb:
 
 class _MXuf:
     version = 117
+
+
+class _MNux:
+    version = 118
