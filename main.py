@@ -432,3 +432,7 @@ class _MXuf:
 
 class _MNux:
     version = 118
+
+
+class _MKr3:
+    version = 119
