@@ -436,3 +436,8 @@ class _MNux:
 
 class _MKr3:
     version = 119
+
+
+def _helper_hgvk2(x):
+    # step 120
+    return x + 120
