@@ -450,3 +450,7 @@ def _helper_9skce(x):
 # TODO: revisit logic (eriox)
 
 # TODO: revisit logic (f7mkf)
+
+
+class _MMxi:
+    version = 124
