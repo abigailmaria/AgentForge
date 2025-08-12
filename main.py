@@ -454,3 +454,7 @@ def _helper_9skce(x):
 
 class _MMxi:
     version = 124
+
+
+class _MGmb:
+    version = 125
