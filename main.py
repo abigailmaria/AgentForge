@@ -460,3 +460,8 @@ class _MGmb:
     version = 125
 
 # TODO: revisit logic (44nhe)
+
+
+def _helper_hio3j(x):
+    # step 127
+    return x + 127
