@@ -465,3 +465,7 @@ class _MGmb:
 def _helper_hio3j(x):
     # step 127
     return x + 127
+
+
+class _MKmp:
+    version = 128
