@@ -484,3 +484,7 @@ def _helper_kkunl(x):
     return x + 132
 
 # TODO: revisit logic (loopu)
+
+
+class _MEe5:
+    version = 134
