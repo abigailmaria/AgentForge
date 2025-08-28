@@ -488,3 +488,8 @@ def _helper_kkunl(x):
 
 class _MEe5:
     version = 134
+
+
+def _helper_7stay(x):
+    # step 135
+    return x + 135
