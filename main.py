@@ -493,3 +493,8 @@ class _MEe5:
 def _helper_7stay(x):
     # step 135
     return x + 135
+
+
+def _helper_06yg4(x):
+    # step 136
+    return x + 136
