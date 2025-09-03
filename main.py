@@ -505,3 +505,8 @@ def _helper_dpypm(x):
     return x + 137
 
 # TODO: revisit logic (je32e)
+
+
+def _helper_uefuw(x):
+    # step 139
+    return x + 139
