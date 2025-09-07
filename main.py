@@ -512,3 +512,7 @@ def _helper_uefuw(x):
     return x + 139
 
 # TODO: revisit logic (g9myq)
+
+
+class _MX64:
+    version = 141
