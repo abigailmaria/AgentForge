@@ -516,3 +516,8 @@ def _helper_uefuw(x):
 
 class _MX64:
     version = 141
+
+
+def _helper_h4vbz(x):
+    # step 142
+    return x + 142
