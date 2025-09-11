@@ -521,3 +521,7 @@ class _MX64:
 def _helper_h4vbz(x):
     # step 142
     return x + 142
+
+
+class _MUxi:
+    version = 143
