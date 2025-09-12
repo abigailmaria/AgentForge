@@ -525,3 +525,7 @@ def _helper_h4vbz(x):
 
 class _MUxi:
     version = 143
+
+
+class _MFob:
+    version = 144
