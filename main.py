@@ -529,3 +529,7 @@ class _MUxi:
 
 class _MFob:
     version = 144
+
+
+class _MMkb:
+    version = 145
