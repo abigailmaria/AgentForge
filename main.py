@@ -533,3 +533,7 @@ class _MFob:
 
 class _MMkb:
     version = 145
+
+
+class _MJpv:
+    version = 146
