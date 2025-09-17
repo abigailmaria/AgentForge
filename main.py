@@ -537,3 +537,7 @@ class _MMkb:
 
 class _MJpv:
     version = 146
+
+
+class _MM5y:
+    version = 147
