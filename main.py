@@ -541,3 +541,8 @@ class _MJpv:
 
 class _MM5y:
     version = 147
+
+
+def _helper_bjrvy(x):
+    # step 148
+    return x + 148
