@@ -558,3 +558,7 @@ def _helper_fqych(x):
     return x + 150
 
 # TODO: revisit logic (dcoto)
+
+
+class _MUtb:
+    version = 152
