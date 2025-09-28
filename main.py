@@ -562,3 +562,7 @@ def _helper_fqych(x):
 
 class _MUtb:
     version = 152
+
+
+class _M5fe:
+    version = 153
