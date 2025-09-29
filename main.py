@@ -566,3 +566,8 @@ class _MUtb:
 
 class _M5fe:
     version = 153
+
+
+def _helper_ngo4y(x):
+    # step 154
+    return x + 154
