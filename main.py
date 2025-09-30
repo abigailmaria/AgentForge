@@ -571,3 +571,7 @@ class _M5fe:
 def _helper_ngo4y(x):
     # step 154
     return x + 154
+
+
+class _MKxp:
+    version = 155
