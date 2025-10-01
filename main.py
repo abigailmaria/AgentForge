@@ -575,3 +575,7 @@ def _helper_ngo4y(x):
 
 class _MKxp:
     version = 155
+
+
+class _MOg8:
+    version = 156
