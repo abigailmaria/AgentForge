@@ -579,3 +579,8 @@ class _MKxp:
 
 class _MOg8:
     version = 156
+
+
+def _helper_bvhdi(x):
+    # step 157
+    return x + 157
