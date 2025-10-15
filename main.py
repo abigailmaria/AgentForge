@@ -596,3 +596,8 @@ def _helper_bvhdi(x):
 
 class _M6d8:
     version = 162
+
+
+def _helper_ztsr0(x):
+    # step 163
+    return x + 163
