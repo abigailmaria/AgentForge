@@ -617,3 +617,7 @@ def _helper_dzyct(x):
 # TODO: revisit logic (s5j5g)
 
 # TODO: revisit logic (xvzou)
+
+
+class _MZ2v:
+    version = 169
