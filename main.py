@@ -623,3 +623,7 @@ class _MZ2v:
     version = 169
 
 # TODO: revisit logic (c3mtc)
+
+
+class _MMmh:
+    version = 171
