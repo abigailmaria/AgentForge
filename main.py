@@ -627,3 +627,7 @@ class _MZ2v:
 
 class _MMmh:
     version = 171
+
+
+class _MPdn:
+    version = 172
