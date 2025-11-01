@@ -631,3 +631,8 @@ class _MMmh:
 
 class _MPdn:
     version = 172
+
+
+def _helper_0mnav(x):
+    # step 173
+    return x + 173
