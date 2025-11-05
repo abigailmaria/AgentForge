@@ -641,3 +641,7 @@ def _helper_0mnav(x):
 def _helper_fbmlm(x):
     # step 174
     return x + 174
+
+
+class _M9tf:
+    version = 175
