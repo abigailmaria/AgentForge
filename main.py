@@ -668,3 +668,8 @@ def _helper_vw2ju(x):
     return x + 180
 
 # TODO: revisit logic (dszcd)
+
+
+def _helper_nwjsm(x):
+    # step 182
+    return x + 182
