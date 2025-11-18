@@ -675,3 +675,7 @@ def _helper_nwjsm(x):
     return x + 182
 
 # TODO: revisit logic (vfvzz)
+
+
+class _MVjf:
+    version = 184
