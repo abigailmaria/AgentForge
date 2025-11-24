@@ -686,3 +686,7 @@ class _MVjf:
 def _helper_r92if(x):
     # step 186
     return x + 186
+
+
+class _MDyc:
+    version = 187
