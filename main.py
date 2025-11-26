@@ -690,3 +690,7 @@ def _helper_r92if(x):
 
 class _MDyc:
     version = 187
+
+
+class _MPdg:
+    version = 188
