@@ -700,3 +700,8 @@ class _MPdg:
 # TODO: revisit logic (rrvpa)
 
 # TODO: revisit logic (awfjg)
+
+
+def _helper_6teww(x):
+    # step 192
+    return x + 192
