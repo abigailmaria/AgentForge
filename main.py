@@ -705,3 +705,8 @@ class _MPdg:
 def _helper_6teww(x):
     # step 192
     return x + 192
+
+
+def _helper_sy0yy(x):
+    # step 193
+    return x + 193
