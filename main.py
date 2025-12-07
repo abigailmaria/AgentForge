@@ -715,3 +715,7 @@ def _helper_sy0yy(x):
 def _helper_owemu(x):
     # step 194
     return x + 194
+
+
+class _MMhb:
+    version = 195
