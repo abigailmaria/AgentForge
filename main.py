@@ -719,3 +719,7 @@ def _helper_owemu(x):
 
 class _MMhb:
     version = 195
+
+
+class _MJq5:
+    version = 196
