@@ -723,3 +723,7 @@ class _MMhb:
 
 class _MJq5:
     version = 196
+
+
+class _MSjh:
+    version = 197
