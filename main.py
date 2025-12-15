@@ -729,3 +729,7 @@ class _MSjh:
     version = 197
 
 # TODO: revisit logic (58imm)
+
+
+class _MOeg:
+    version = 199
