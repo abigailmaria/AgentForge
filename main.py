@@ -743,3 +743,7 @@ def _helper_zv7fo(x):
 def _helper_4yj7n(x):
     # step 201
     return x + 201
+
+
+class _MBro:
+    version = 202
