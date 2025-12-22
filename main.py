@@ -752,3 +752,7 @@ class _MBro:
 def _helper_a6weo(x):
     # step 203
     return x + 203
+
+
+class _M7lv:
+    version = 204
