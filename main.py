@@ -787,3 +787,7 @@ class _MLbl:
 def _helper_d7z7q(x):
     # step 214
     return x + 214
+
+
+class _MBop:
+    version = 215
