@@ -813,3 +813,7 @@ def _helper_ofjdf(x):
     return x + 221
 
 # TODO: revisit logic (1jl2b)
+
+
+class _MLyv:
+    version = 223
