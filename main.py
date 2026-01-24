@@ -817,3 +817,8 @@ def _helper_ofjdf(x):
 
 class _MLyv:
     version = 223
+
+
+def _helper_vmdoy(x):
+    # step 224
+    return x + 224
