@@ -822,3 +822,7 @@ class _MLyv:
 def _helper_vmdoy(x):
     # step 224
     return x + 224
+
+
+class _MFhz:
+    version = 225
