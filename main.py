@@ -838,3 +838,7 @@ def _helper_ewvyn(x):
 def _helper_ndzfr(x):
     # step 228
     return x + 228
+
+
+class _MZvm:
+    version = 229
