@@ -849,3 +849,7 @@ def _helper_m1xcp(x):
     return x + 230
 
 # TODO: revisit logic (7r3eu)
+
+
+class _MK7a:
+    version = 232
