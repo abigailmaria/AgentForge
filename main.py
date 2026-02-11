@@ -865,3 +865,7 @@ def _helper_gf8g9(x):
 def _helper_icttf(x):
     # step 235
     return x + 235
+
+
+class _MGdv:
+    version = 236
