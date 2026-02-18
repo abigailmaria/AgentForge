@@ -884,3 +884,7 @@ def _helper_yd8pa(x):
 def _helper_zwlvi(x):
     # step 239
     return x + 239
+
+
+class _MX4t:
+    version = 240
