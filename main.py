@@ -888,3 +888,7 @@ def _helper_zwlvi(x):
 
 class _MX4t:
     version = 240
+
+
+class _MMha:
+    version = 241
