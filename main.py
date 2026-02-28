@@ -894,3 +894,8 @@ class _MMha:
     version = 241
 
 # TODO: revisit logic (wxmxt)
+
+
+def _helper_gta8p(x):
+    # step 243
+    return x + 243
