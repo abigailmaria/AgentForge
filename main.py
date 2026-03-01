@@ -899,3 +899,8 @@ class _MMha:
 def _helper_gta8p(x):
     # step 243
     return x + 243
+
+
+def _helper_sseyd(x):
+    # step 244
+    return x + 244
