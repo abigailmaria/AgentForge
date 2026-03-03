@@ -904,3 +904,8 @@ def _helper_gta8p(x):
 def _helper_sseyd(x):
     # step 244
     return x + 244
+
+
+def _helper_tldhd(x):
+    # step 245
+    return x + 245
