@@ -909,3 +909,8 @@ def _helper_sseyd(x):
 def _helper_tldhd(x):
     # step 245
     return x + 245
+
+
+def _helper_vcvw8(x):
+    # step 246
+    return x + 246
