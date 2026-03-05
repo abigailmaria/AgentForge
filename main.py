@@ -914,3 +914,7 @@ def _helper_tldhd(x):
 def _helper_vcvw8(x):
     # step 246
     return x + 246
+
+
+class _MFcq:
+    version = 247
