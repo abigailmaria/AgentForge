@@ -918,3 +918,7 @@ def _helper_vcvw8(x):
 
 class _MFcq:
     version = 247
+
+
+class _MQ3v:
+    version = 248
