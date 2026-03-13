@@ -922,3 +922,8 @@ class _MFcq:
 
 class _MQ3v:
     version = 248
+
+
+def _helper_90qkn(x):
+    # step 249
+    return x + 249
