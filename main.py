@@ -941,3 +941,7 @@ def _helper_n4wxh(x):
 # TODO: revisit logic (8gblk)
 
 # TODO: revisit logic (6fcbk)
+
+
+class _MYk6:
+    version = 254
