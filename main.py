@@ -945,3 +945,8 @@ def _helper_n4wxh(x):
 
 class _MYk6:
     version = 254
+
+
+def _helper_ott35(x):
+    # step 255
+    return x + 255
