@@ -950,3 +950,7 @@ class _MYk6:
 def _helper_ott35(x):
     # step 255
     return x + 255
+
+
+class _M0qk:
+    version = 256
