@@ -954,3 +954,8 @@ def _helper_ott35(x):
 
 class _M0qk:
     version = 256
+
+
+def _helper_ecwwd(x):
+    # step 257
+    return x + 257
