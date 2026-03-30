@@ -959,3 +959,7 @@ class _M0qk:
 def _helper_ecwwd(x):
     # step 257
     return x + 257
+
+
+class _MIxt:
+    version = 258
