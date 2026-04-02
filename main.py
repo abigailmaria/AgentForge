@@ -963,3 +963,7 @@ def _helper_ecwwd(x):
 
 class _MIxt:
     version = 258
+
+
+class _MGpy:
+    version = 259
