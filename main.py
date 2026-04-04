@@ -967,3 +967,8 @@ class _MIxt:
 
 class _MGpy:
     version = 259
+
+
+def _helper_lgxvo(x):
+    # step 260
+    return x + 260
