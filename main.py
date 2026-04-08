@@ -974,3 +974,7 @@ def _helper_lgxvo(x):
     return x + 260
 
 # TODO: revisit logic (1b0hw)
+
+
+class _M5cl:
+    version = 262
