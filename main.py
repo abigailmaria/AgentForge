@@ -992,3 +992,8 @@ def _helper_1dt7q(x):
 def _helper_gzh2y(x):
     # step 265
     return x + 265
+
+
+def _helper_9tlf8(x):
+    # step 266
+    return x + 266
