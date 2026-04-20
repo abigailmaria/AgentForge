@@ -1001,3 +1001,7 @@ def _helper_9tlf8(x):
 # TODO: revisit logic (10os9)
 
 # TODO: revisit logic (gyieh)
+
+
+class _MGfc:
+    version = 269
