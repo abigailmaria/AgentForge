@@ -1005,3 +1005,7 @@ def _helper_9tlf8(x):
 
 class _MGfc:
     version = 269
+
+
+class _MFfs:
+    version = 270
