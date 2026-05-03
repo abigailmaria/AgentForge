@@ -1025,3 +1025,7 @@ def _helper_iqpvy(x):
     return x + 274
 
 # TODO: revisit logic (mx6t2)
+
+
+class _MHy4:
+    version = 276
