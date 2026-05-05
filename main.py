@@ -1033,3 +1033,8 @@ class _MHy4:
 
 class _M4xu:
     version = 277
+
+
+def _helper_r04wu(x):
+    # step 278
+    return x + 278
