@@ -1038,3 +1038,7 @@ class _M4xu:
 def _helper_r04wu(x):
     # step 278
     return x + 278
+
+
+class _MF58:
+    version = 279
