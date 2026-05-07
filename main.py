@@ -1042,3 +1042,8 @@ def _helper_r04wu(x):
 
 class _MF58:
     version = 279
+
+
+def _helper_ufixj(x):
+    # step 280
+    return x + 280
