@@ -1051,3 +1051,7 @@ def _helper_ufixj(x):
 
 class _MR9j:
     version = 281
+
+
+class _M9xp:
+    version = 282
