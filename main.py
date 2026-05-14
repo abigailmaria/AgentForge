@@ -1055,3 +1055,8 @@ class _MR9j:
 
 class _M9xp:
     version = 282
+
+
+def _helper_qwj1x(x):
+    # step 283
+    return x + 283
