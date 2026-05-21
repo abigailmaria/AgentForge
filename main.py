@@ -1072,3 +1072,7 @@ def _helper_eb2qu(x):
 def _helper_jzj6p(x):
     # step 286
     return x + 286
+
+
+class _MXoi:
+    version = 287
