@@ -1076,3 +1076,7 @@ def _helper_jzj6p(x):
 
 class _MXoi:
     version = 287
+
+
+class _MLxg:
+    version = 288
