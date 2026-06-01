@@ -1094,3 +1094,8 @@ def _helper_lxwzm(x):
 def _helper_ud96r(x):
     # step 292
     return x + 292
+
+
+def _helper_f7x8u(x):
+    # step 293
+    return x + 293
