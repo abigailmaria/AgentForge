@@ -1099,3 +1099,7 @@ def _helper_ud96r(x):
 def _helper_f7x8u(x):
     # step 293
     return x + 293
+
+
+class _MVr7:
+    version = 294
