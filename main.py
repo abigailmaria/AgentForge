@@ -1105,3 +1105,8 @@ class _MVr7:
     version = 294
 
 # TODO: revisit logic (tshqu)
+
+
+def _helper_qtikr(x):
+    # step 296
+    return x + 296
