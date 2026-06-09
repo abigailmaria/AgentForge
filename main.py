@@ -1112,3 +1112,7 @@ def _helper_qtikr(x):
     return x + 296
 
 # TODO: revisit logic (ohgvs)
+
+
+class _M1fv:
+    version = 298
