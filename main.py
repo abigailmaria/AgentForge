@@ -1126,3 +1126,8 @@ class _MUnl:
 
 class _MTz1:
     version = 301
+
+
+def _helper_muewm(x):
+    # step 302
+    return x + 302
