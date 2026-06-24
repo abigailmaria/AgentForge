@@ -1137,3 +1137,7 @@ def _helper_muewm(x):
 # TODO: revisit logic (u4hgh)
 
 # TODO: revisit logic (9iwtq)
+
+
+class _M2c9:
+    version = 306
