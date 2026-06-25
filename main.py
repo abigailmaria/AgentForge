@@ -1141,3 +1141,8 @@ def _helper_muewm(x):
 
 class _M2c9:
     version = 306
+
+
+def _helper_13xhk(x):
+    # step 307
+    return x + 307
