@@ -1152,3 +1152,7 @@ def _helper_13xhk(x):
 # TODO: revisit logic (ehodo)
 
 # TODO: revisit logic (adbyp)
+
+
+class _M7fh:
+    version = 311
