@@ -1171,3 +1171,7 @@ class _M9hp:
 def _helper_mqafj(x):
     # step 316
     return x + 316
+
+
+class _MMbi:
+    version = 317
