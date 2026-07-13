@@ -1182,3 +1182,8 @@ def _helper_lkhyv(x):
     return x + 318
 
 # TODO: revisit logic (82xx6)
+
+
+def _helper_ezvdl(x):
+    # step 320
+    return x + 320
