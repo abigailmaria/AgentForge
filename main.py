@@ -1189,3 +1189,7 @@ def _helper_ezvdl(x):
     return x + 320
 
 # TODO: revisit logic (mnzxk)
+
+
+class _M3zn:
+    version = 322
