@@ -1207,3 +1207,7 @@ def _helper_vmvdx(x):
     return x + 325
 
 # TODO: revisit logic (sjzgd)
+
+
+class _MAxw:
+    version = 327
