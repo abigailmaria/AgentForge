@@ -1216,3 +1216,7 @@ class _MAxw:
 def _helper_c9enr(x):
     # step 328
     return x + 328
+
+
+class _MQip:
+    version = 329
