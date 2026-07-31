@@ -1225,3 +1225,8 @@ class _MQip:
 def _helper_nbeke(x):
     # step 330
     return x + 330
+
+
+def _helper_ufssi(x):
+    # step 331
+    return x + 331
