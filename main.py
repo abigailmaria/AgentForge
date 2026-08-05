@@ -1232,3 +1232,7 @@ def _helper_ufssi(x):
     return x + 331
 
 # TODO: revisit logic (avc6k)
+
+
+class _MXqa:
+    version = 333
