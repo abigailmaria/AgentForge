@@ -1236,3 +1236,7 @@ def _helper_ufssi(x):
 
 class _MXqa:
     version = 333
+
+
+class _MYla:
+    version = 334
