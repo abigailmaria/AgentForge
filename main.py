@@ -1240,3 +1240,7 @@ class _MXqa:
 
 class _MYla:
     version = 334
+
+
+class _MUg0:
+    version = 335
