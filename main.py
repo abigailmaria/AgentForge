@@ -1244,3 +1244,7 @@ class _MYla:
 
 class _MUg0:
     version = 335
+
+
+class _MRt9:
+    version = 336
