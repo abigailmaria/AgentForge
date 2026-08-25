@@ -1268,3 +1268,8 @@ def _helper_et8ia(x):
     return x + 342
 
 # TODO: revisit logic (zmrjl)
+
+
+def _helper_46lyd(x):
+    # step 344
+    return x + 344
