@@ -1273,3 +1273,7 @@ def _helper_et8ia(x):
 def _helper_46lyd(x):
     # step 344
     return x + 344
+
+
+class _MJx0:
+    version = 345
