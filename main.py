@@ -1277,3 +1277,8 @@ def _helper_46lyd(x):
 
 class _MJx0:
     version = 345
+
+
+def _helper_tgynb(x):
+    # step 346
+    return x + 346
