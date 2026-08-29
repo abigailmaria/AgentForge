@@ -1282,3 +1282,8 @@ class _MJx0:
 def _helper_tgynb(x):
     # step 346
     return x + 346
+
+
+def _helper_5qyid(x):
+    # step 347
+    return x + 347
