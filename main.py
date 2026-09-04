@@ -1291,3 +1291,7 @@ def _helper_5qyid(x):
 # TODO: revisit logic (jz5b4)
 
 # TODO: revisit logic (cqh2p)
+
+
+class _MPdr:
+    version = 350
