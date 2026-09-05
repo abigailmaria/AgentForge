@@ -1295,3 +1295,7 @@ def _helper_5qyid(x):
 
 class _MPdr:
     version = 350
+
+
+class _MUqq:
+    version = 351
