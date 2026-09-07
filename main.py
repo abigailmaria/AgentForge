@@ -1299,3 +1299,8 @@ class _MPdr:
 
 class _MUqq:
     version = 351
+
+
+def _helper_4bock(x):
+    # step 352
+    return x + 352
