@@ -1304,3 +1304,7 @@ class _MUqq:
 def _helper_4bock(x):
     # step 352
     return x + 352
+
+
+class _MIqo:
+    version = 353
