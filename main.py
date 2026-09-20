@@ -1319,3 +1319,8 @@ def _helper_jh9cz(x):
     return x + 356
 
 # TODO: revisit logic (vcbrq)
+
+
+def _helper_232lp(x):
+    # step 358
+    return x + 358
