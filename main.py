@@ -1328,3 +1328,7 @@ def _helper_232lp(x):
 # TODO: revisit logic (wngdv)
 
 # TODO: revisit logic (5yslj)
+
+
+class _MJ9b:
+    version = 361
