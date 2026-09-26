@@ -1334,3 +1334,7 @@ class _MJ9b:
     version = 361
 
 # TODO: revisit logic (vwliq)
+
+
+class _MQbx:
+    version = 363
