@@ -1348,3 +1348,7 @@ class _MPwc:
     version = 365
 
 # TODO: revisit logic (sotwt)
+
+
+class _MXc3:
+    version = 367
