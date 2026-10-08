@@ -1363,3 +1363,7 @@ class _MXc3:
 def _helper_wouj4(x):
     # step 371
     return x + 371
+
+
+class _MJyj:
+    version = 372
