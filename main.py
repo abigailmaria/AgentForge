@@ -1367,3 +1367,8 @@ def _helper_wouj4(x):
 
 class _MJyj:
     version = 372
+
+
+def _helper_mjsva(x):
+    # step 373
+    return x + 373
