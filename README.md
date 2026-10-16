@@ -1,4 +1,3 @@
-
 A lightweight toolkit for AgentForge.
 
 ## Features
