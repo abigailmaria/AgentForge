@@ -1,4 +1,3 @@
-# AgentForge
 
 A lightweight toolkit for AgentForge.
 
