@@ -1402,3 +1402,7 @@ def _helper_vvs5a(x):
     return x + 381
 
 # TODO: revisit logic (apqdt)
+
+
+class _M9ho:
+    version = 383
