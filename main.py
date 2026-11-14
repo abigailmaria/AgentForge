@@ -1425,3 +1425,7 @@ def _helper_xvaxa(x):
 def _helper_udzsg(x):
     # step 388
     return x + 388
+
+
+class _MZrq:
+    version = 389
