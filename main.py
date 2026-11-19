@@ -1431,3 +1431,7 @@ class _MZrq:
     version = 389
 
 # TODO: revisit logic (so0xz)
+
+
+class _MHkp:
+    version = 391
