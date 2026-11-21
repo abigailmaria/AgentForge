@@ -1435,3 +1435,7 @@ class _MZrq:
 
 class _MHkp:
     version = 391
+
+
+class _MFo6:
+    version = 392
