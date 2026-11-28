@@ -1453,3 +1453,7 @@ def _helper_niyk4(x):
 def _helper_2dj07(x):
     # step 396
     return x + 396
+
+
+class _MKjz:
+    version = 397
