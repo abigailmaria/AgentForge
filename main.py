@@ -1461,3 +1461,7 @@ class _MKjz:
 
 class _MPkk:
     version = 398
+
+
+class _MVim:
+    version = 399
