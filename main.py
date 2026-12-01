@@ -1465,3 +1465,7 @@ class _MPkk:
 
 class _MVim:
     version = 399
+
+
+class _MDei:
+    version = 400
