@@ -1469,3 +1469,8 @@ class _MVim:
 
 class _MDei:
     version = 400
+
+
+def _helper_z3kia(x):
+    # step 401
+    return x + 401
